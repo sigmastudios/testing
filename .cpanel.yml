@@ -3,4 +3,3 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/elisha/repositories/testing
     - cd /home/elisha/repositories/testing && touch YOUAREHERE
-    - zszzwdawdada
