@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/elisha/repositories/testing
-    - cd /home/elisha/repositories/testing && touch YOUAREHERE
+    - export DEPLOYPATH=/home/tjikkost/repositories/a2testing
+    - cd /home/tjikkost/repositories/a2testing && touch YOUAREHERE
